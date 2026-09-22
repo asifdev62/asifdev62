@@ -1,8 +1,8 @@
 <img width="2007" height="783" alt="github-banner" src="https://github.com/user-attachments/assets/0a87ef1e-82e1-4433-98b5-77ef36fb3559" />
 
-# Hi, I'm Asif Ali 👋
+# Hi, I'm MD Asif Ali 👋
 
-### Front-End / Full-Stack Web Developer
+### Full-Stack Web Developer
 
 I'm a Computer Science student and passionate web developer focused on building modern, responsive, and user-friendly web applications.
 
