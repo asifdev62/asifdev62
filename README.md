@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./github-banner.png" alt="Asif Ali - Web Developer" width="100%" />
+</p>
+
 # Hi, I'm Asif Ali 👋
 
 ### Front-End / Full-Stack Web Developer
