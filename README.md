@@ -1,3 +1,4 @@
+<img width="2007" height="783" alt="github-banner" src="https://github.com/user-attachments/assets/0a87ef1e-82e1-4433-98b5-77ef36fb3559" />
 <p align="center">
   <img src="./github-banner.png" alt="Asif Ali - Web Developer" width="100%" />
 </p>
