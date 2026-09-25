@@ -79,8 +79,14 @@ An interactive cricket player selection application where users can explore play
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asifdev62&show_icons=true&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifdev62&layout=compact&hide_border=true" height="170" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=asifdev62&show_icons=true"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifdev62&layout=compact"
+    height="170"
+  />
 </p>
 
 ---
