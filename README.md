@@ -80,11 +80,11 @@ An interactive cricket player selection application where users can explore play
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=asifdev62&show_icons=true"
+    src="https://github-readme-stats.vercel.app/api?username=asifdev62&show_icons=true&hide_border=true&cache_seconds=86400"
     height="170"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifdev62&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifdev62&layout=compact&hide_border=true&cache_seconds=86400"
     height="170"
   />
 </p>
