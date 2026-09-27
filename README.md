@@ -95,10 +95,6 @@ An interactive cricket player selection application with player cards, team sele
 🔗 **Live Demo:** Coming Soon
 📂 **Repository:** [BPL Dream 11](https://github.com/asifdev62)
 
----
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asifdev62&show_icons=true&theme=tokyonight)
 
 ---
 
