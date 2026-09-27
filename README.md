@@ -49,25 +49,6 @@ I love learning new technologies, solving problems through code, and turning ide
 ---
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asifdev62&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifdev62&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-
-----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=asifdev62&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-
 ## 🚀 Featured Projects
 
 ### 📚 Book Vibe
@@ -119,8 +100,10 @@ An interactive cricket player selection application with player cards, team sele
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/asifdev62/github-stats/output/generated/overview.svg" alt="GitHub Stats" />
-  <img src="https://raw.githubusercontent.com/asifdev62/github-stats/output/generated/languages.svg" alt="Most Used Languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=asifdev62&show_icons=true&theme=tokyonight"
+    alt="GitHub Stats"
+  />
 </p>
 
 ---
