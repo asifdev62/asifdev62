@@ -1,6 +1,6 @@
+<img width="2007" height="783" alt="github-banner" src="https://github.com/user-attachments/assets/cbfad5aa-2f08-4935-96dd-8ee79c185d23" />
 
 
-<img width="1200px" height="300px" alt="GitHub Banner" src="https://github.com/user-attachments/assets/0a87ef1e-82e1-4433-98b5-77ef36fb3559" />
 
 # Hey 👋, I'm Md Asif Ali!
 
