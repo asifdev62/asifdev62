@@ -57,7 +57,7 @@ Users can explore books, view details, manage their reading list, and organize f
 
 **Tech:** `Next.js` `TypeScript` `React` `Tailwind CSS`
 
-🔗 **Live Demo:** Coming Soon
+🔗 **Live Demo:** https://bookvibe-sigma.vercel.app/
 📂 **Repository:** [Book Vibe](https://github.com/asifdev62)
 
 ---
