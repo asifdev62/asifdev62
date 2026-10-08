@@ -47,7 +47,7 @@ I love learning new technologies, solving problems through code, and turning ide
 ---
 
 
-## 🚀 Featured Projects
+## 🚀 My Projects
 
 ### 📚 Book Vibe
 
