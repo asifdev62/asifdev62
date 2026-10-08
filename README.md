@@ -83,16 +83,14 @@ A technology stack management application where users can explore different tech
 📂 **Repository:** [DevStack](https://github.com/asifdev62)
 
 ---
+### 📰 Bangla News 24
 
-### 🏏 BPL Dream 11
+A modern Bangla news platform with news categories, popular news, article details, user authentication, and responsive UI.
 
-An interactive cricket player selection application with player cards, team selection, and dynamic UI interactions.
-
-**Tech:** `React` `JavaScript` `Tailwind CSS`
+**Tech:** `Next.js` `TypeScript` `Tailwind CSS` `MongoDB` `Better Auth`
 
 🔗 **Live Demo:** Coming Soon
-📂 **Repository:** [BPL Dream 11](https://github.com/asifdev62)
-
+📂 **Repository:** [Bangla News 24](https://github.com/asifdev62/bangla-news-24)
 
 ---
 
