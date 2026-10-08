@@ -89,7 +89,7 @@ A modern Bangla news platform with news categories, popular news, article detail
 
 **Tech:** `Next.js` `TypeScript` `Tailwind CSS` `MongoDB` `Better Auth`
 
-🔗 **Live Demo:** Coming Soon
+🔗 **Live Demo:** https://bangla-news24-kappa.vercel.app/
 📂 **Repository:** [Bangla News 24](https://github.com/asifdev62/bangla-news-24)
 
 ---
