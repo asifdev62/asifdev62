@@ -1,4 +1,4 @@
-<img width="2007" height="783" alt="github-banner" src="https://github.com/user-attachments/assets/130df4b0-ed4a-4765-a2d1-a0768c44c1e2" />
+<!-- <img width="2007" height="783" alt="github-banner" src="https://github.com/user-attachments/assets/130df4b0-ed4a-4765-a2d1-a0768c44c1e2" />
 
 # Hey 👋, I'm Md Asif Ali!
 
@@ -159,4 +159,142 @@ I believe that the best way to become a better developer is to keep learning, ke
 Feel free to explore my repositories and connect with me.
 
 **Happy Coding! 🚀**
+ -->
 
+
+
+
+ <img width="100%" src="https://github.com/user-attachments/assets/130df4b0-ed4a-4765-a2d1-a0768c44c1e2" alt="Md Asif Ali GitHub Banner" />
+
+<h1 align="center">Hey 👋, I'm Md Asif Ali</h1>
+
+<h3 align="center">Full-Stack Web Developer | CSE Student</h3>
+
+<p align="center">
+  Building modern, responsive, and user-friendly web applications.
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Science & Engineering student.
+- 💻 Interested in full-stack web development.
+- ⚛️ Working with React, Next.js, JavaScript, and TypeScript.
+- 🌱 Currently learning backend development with Node.js, Express.js, and MongoDB.
+- 🚀 Enjoy building projects and solving real-world problems.
+- 🎯 Focused on writing clean, maintainable, and reliable code.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend Technologies" />
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend and Database Technologies" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel" alt="Development Tools" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 📰 Bangla News 24
+
+A Bangla news platform featuring news categories, article details, and user authentication.
+
+**Tech Stack:** Next.js, TypeScript, Tailwind CSS, MongoDB, Better Auth
+
+- 🌐 [Live Demo](https://bangla-news24-kappa.vercel.app/)
+- 💻 [Source Code](https://github.com/asifdev62/bangla-news24)
+
+### 💪 FitLog
+
+A workout management application for exploring exercises, creating workout plans, and saving favorite workouts.
+
+**Tech Stack:** Next.js, TypeScript, React, Tailwind CSS
+
+- 🌐 [Live Demo](https://fitlog-black-two.vercel.app/)
+- 💻 [Source Code](FITLOG_REPOSITORY_URL)
+
+### 📚 Book Vibe
+
+A book management application that allows users to explore books, view details, and organize their reading lists.
+
+**Tech Stack:** Next.js, TypeScript, React, Tailwind CSS
+
+- 🌐 [Live Demo](https://bookvibe-sigma.vercel.app/)
+- 💻 [Source Code](BOOKVIBE_REPOSITORY_URL)
+
+### 🧑‍💻 DevStack
+
+A technology discovery application for exploring technologies and organizing a development stack.
+
+**Tech Stack:** React, TypeScript, Tailwind CSS
+
+- 🌐 [Live Demo](https://devstack-lime-eta.vercel.app/)
+- 💻 [Source Code](DEVSTACK_REPOSITORY_URL)
+
+---
+
+## 📚 Currently Learning
+
+- TypeScript and advanced React patterns
+- Next.js App Router
+- Node.js and Express.js
+- MongoDB and database operations
+- REST API development
+- Authentication and authorization
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asifdev62" alt="GitHub Contribution Streak" />
+</p>
+
+---
+
+## 🎯 Goals
+
+- Build reliable, production-ready web applications.
+- Strengthen backend and database development skills.
+- Improve code quality and testing practices.
+- Contribute to open-source projects.
+- Grow as a professional software developer.
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://github.com/asifdev62">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="YOUR_LINKEDIN_PROFILE_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>Learn → Build → Debug → Improve → Repeat 🚀</b>
+</p>
+
+<p align="center">
+  Thanks for visiting my profile! Happy Coding! 👨‍💻
+</p>
