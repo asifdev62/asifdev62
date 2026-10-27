@@ -145,10 +145,6 @@ A technology discovery application for exploring technologies and organizing a d
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=asifdev62&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=asifdev62&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
 ---
 
 ## 📚 Currently Learning
