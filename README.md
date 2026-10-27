@@ -227,7 +227,7 @@ A workout management application for exploring exercises, creating workout plans
 **Tech Stack:** Next.js, TypeScript, React, Tailwind CSS
 
 - 🌐 [Live Demo](https://fitlog-black-two.vercel.app/)
-- 💻 [Source Code](FITLOG_REPOSITORY_URL)
+- 💻 [Source Code](https://github.com/asifdev62/FitLog-in-Next.js.git)
 
 ### 📚 Book Vibe
 
@@ -236,7 +236,7 @@ A book management application that allows users to explore books, view details, 
 **Tech Stack:** Next.js, TypeScript, React, Tailwind CSS
 
 - 🌐 [Live Demo](https://bookvibe-sigma.vercel.app/)
-- 💻 [Source Code](BOOKVIBE_REPOSITORY_URL)
+- 💻 [Source Code](https://github.com/asifdev62/Book-Vibe-in-Next.js.git)
 
 ### 🧑‍💻 DevStack
 
@@ -245,7 +245,7 @@ A technology discovery application for exploring technologies and organizing a d
 **Tech Stack:** React, TypeScript, Tailwind CSS
 
 - 🌐 [Live Demo](https://devstack-lime-eta.vercel.app/)
-- 💻 [Source Code](DEVSTACK_REPOSITORY_URL)
+- 💻 [Source Code](https://github.com/asifdev62/devStack-in-React.js.git)
 
 ---
 
@@ -264,6 +264,35 @@ A technology discovery application for exploring technologies and organizing a d
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=asifdev62" alt="GitHub Contribution Streak" />
+</p>
+
+---
+
+
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=asifdev62&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Asif Ali's GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifdev62&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=asifdev62&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
 ---
