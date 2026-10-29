@@ -57,6 +57,24 @@
 <tr>
 <td width="50%" valign="top">
 
+### 🛒 Bazar Dor
+
+<a href="https://bazar-dor-psi-olive.vercel.app/">
+  <img src="./public/bazar-dor-preview.png" width="100%" alt="Bazar Dor"/>
+</a>
+
+A Bengali price information platform designed to help users explore market prices and product information.
+
+**Tech Stack:** Next.js, TypeScript, Tailwind CSS, MongoDB, Better Auth
+
+<p>
+<a href="https://bazar-dor-psi-olive.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-059669?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/asifdev62/bazar-dor"><img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
 ### 📰 Bangla News 24
 
 <a href="https://bangla-news24-kappa.vercel.app/">
@@ -69,10 +87,12 @@ A Bangla news platform featuring news categories, article details, and user auth
 
 <p>
 <a href="https://bangla-news24-kappa.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-059669?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://github.com/asifdev62/bangla-news24"><img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/asifdev62/banglaNews24"><img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 💪 FitLog
@@ -91,8 +111,6 @@ A workout management application for exploring exercises, creating workout plans
 </p>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 📚 Book Vibe
@@ -107,25 +125,7 @@ A book management application to explore books, view details, and organize readi
 
 <p>
 <a href="https://bookvibe-sigma.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-059669?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://github.com/asifdev62/Book-Vibe-in-Next.js"><img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-### 🧑‍💻 DevStack
-
-<a href="https://devstack-lime-eta.vercel.app/">
-  <img src="https://placehold.co/600x300/0f172a/ffffff?text=DevStack" width="100%" alt="DevStack" />
-</a>
-
-A technology discovery application for exploring technologies and organizing a development stack.
-
-**Tech Stack:** React, TypeScript, Tailwind CSS
-
-<p>
-<a href="https://devstack-lime-eta.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-059669?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://github.com/asifdev62/devStack-in-React.js"><img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/890asif/Book-Vibe"><img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 </td>
@@ -167,7 +167,6 @@ A technology discovery application for exploring technologies and organizing a d
 - ✅ Grow as a professional software developer.
 
 ---
-
 
 ## 📈 GitHub Activity
 
