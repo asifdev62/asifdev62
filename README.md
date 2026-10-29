@@ -60,7 +60,7 @@
 ### 📰 Bangla News 24
 
 <a href="https://bangla-news24-kappa.vercel.app/">
-  <img src="https://placehold.co/600x300/0f172a/ffffff?text=Bangla+News+24" width="100%" alt="Bangla News 24" />
+  <img src="./public/bangla-news-24-preview.png" width="100%" alt="Bangla News 24" />
 </a>
 
 A Bangla news platform featuring news categories, article details, and user authentication.
@@ -78,7 +78,7 @@ A Bangla news platform featuring news categories, article details, and user auth
 ### 💪 FitLog
 
 <a href="https://fitlog-black-two.vercel.app/">
-  <img src="https://placehold.co/600x300/052e2b/ffffff?text=FitLog" width="100%" alt="FitLog" />
+  <img src="./public/fitlog-preview.png" width="100%" alt="FitLog" />
 </a>
 
 A workout management application for exploring exercises, creating workout plans, and saving favorite workouts.
@@ -98,7 +98,7 @@ A workout management application for exploring exercises, creating workout plans
 ### 📚 Book Vibe
 
 <a href="https://bookvibe-sigma.vercel.app/">
-  <img src="https://placehold.co/600x300/f5f0e8/222222?text=Book+Vibe" width="100%" alt="Book Vibe" />
+  <img src="./public/book-vibe-preview.png" width="100%" alt="Book Vibe" />
 </a>
 
 A book management application to explore books, view details, and organize reading lists.
