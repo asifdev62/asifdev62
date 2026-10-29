@@ -60,7 +60,11 @@
 ### 🛒 Bazar Dor
 
 <a href="https://bazar-dor-psi-olive.vercel.app/">
-  <img src="./public/bazar-dor-preview.png" width="100%" alt="Bazar Dor"/>
+ <img
+  src="https://raw.githubusercontent.com/asifdev62/bazar-dor/main/public/bazar-dor-preview.png"
+  width="100%"
+  alt="Bazar Dor Preview"
+/>
 </a>
 
 A Bengali price information platform designed to help users explore market prices and product information.
@@ -78,7 +82,11 @@ A Bengali price information platform designed to help users explore market price
 ### 📰 Bangla News 24
 
 <a href="https://bangla-news24-kappa.vercel.app/">
-  <img src="./public/bangla-news-24-preview.png" width="100%" alt="Bangla News 24" />
+<img
+  src="https://raw.githubusercontent.com/asifdev62/banglaNews24/main/public/bangla-news-24-preview.png"
+  width="100%"
+  alt="Bangla News 24 Preview"
+/>
 </a>
 
 A Bangla news platform featuring news categories, article details, and user authentication.
@@ -98,7 +106,11 @@ A Bangla news platform featuring news categories, article details, and user auth
 ### 💪 FitLog
 
 <a href="https://fitlog-black-two.vercel.app/">
-  <img src="./public/fitlog-preview.png" width="100%" alt="FitLog" />
+ <img
+  src="https://raw.githubusercontent.com/asifdev62/FitLog-in-Next.js/main/public/fitlog-preview.png"
+  width="100%"
+  alt="FitLog Preview"
+/>
 </a>
 
 A workout management application for exploring exercises, creating workout plans, and saving favorite workouts.
@@ -116,7 +128,11 @@ A workout management application for exploring exercises, creating workout plans
 ### 📚 Book Vibe
 
 <a href="https://bookvibe-sigma.vercel.app/">
-  <img src="./public/book-vibe-preview.png" width="100%" alt="Book Vibe" />
+<img
+  src="https://raw.githubusercontent.com/890asif/Book-Vibe/main/public/book-vibe-preview.png"
+  width="100%"
+  alt="Book Vibe Preview"
+/>
 </a>
 
 A book management application to explore books, view details, and organize reading lists.
