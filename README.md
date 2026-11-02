@@ -1,4 +1,4 @@
- <img width="100%" src="https://github.com/user-attachments/assets/130df4b0-ed4a-4765-a2d1-a0768c44c1e2" alt="Md Asif Ali GitHub Banner" />
+<img width="2056" height="765" alt="Md Asif Ali Developer Portfolio Banner" src="https://github.com/user-attachments/assets/10ddd5de-a657-4290-a54f-868261778174" />
 
 <h1 align="center">Hey 👋, I'm Md Asif Ali</h1>
 
