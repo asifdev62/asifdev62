@@ -53,18 +53,35 @@
 
 ## 🚀 Featured Projects
 
+## 🚀 Featured Projects
+
 <table>
 <tr>
+<td width="50%" valign="top">
+
+### 📚 BookNook
+
+<a href="https://book-nook-ivory.vercel.app/">
+  <img src="https://raw.githubusercontent.com/asifdev62/BookNook/main/public/homepage.png" width="100%" alt="BookNook Preview" />
+</a>
+
+A modern book management platform where readers can explore books, browse categories, and view book details. Uses JWT authentication and Next.js Proxy for protected-route checks.
+
+**Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, MongoDB, JWT, Node.js, Express.js
+
+<p>
+<a href="https://book-nook-ivory.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-059669?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/asifdev62/BookNook"><img src="https://img.shields.io/badge/Frontend-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/asifdev62/BookNook-Server"><img src="https://img.shields.io/badge/Backend-2563EB?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+</td>
 <td width="50%" valign="top">
 
 ### 🌍 Wanderlust
 
 <a href="https://wanderlust-gamma-pink.vercel.app/">
-  <img
-    src="https://raw.githubusercontent.com/asifdev62/Wanderlust/main/public/homepage.png"
-    width="100%"
-    alt="Wanderlust Travel Application Preview"
-  />
+  <img src="https://raw.githubusercontent.com/asifdev62/Wanderlust/main/public/homepage.png" width="100%" alt="Wanderlust Preview" />
 </a>
 
 A full-stack travel application where users can explore destinations, discover new places, and manage travel bookings.
@@ -72,28 +89,20 @@ A full-stack travel application where users can explore destinations, discover n
 **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Node.js, Express.js, MongoDB, Better Auth
 
 <p>
-  <a href="https://wanderlust-gamma-pink.vercel.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-059669?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://github.com/asifdev62/Wanderlust">
-    <img src="https://img.shields.io/badge/Frontend-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/asifdev62/wanderlust-server">
-    <img src="https://img.shields.io/badge/Backend-2563EB?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<a href="https://wanderlust-gamma-pink.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-059669?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/asifdev62/Wanderlust"><img src="https://img.shields.io/badge/Frontend-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/asifdev62/wanderlust-server"><img src="https://img.shields.io/badge/Backend-2563EB?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🛒 Bazar Dor
 
 <a href="https://bazar-dor-psi-olive.vercel.app/">
- <img
-  src="https://raw.githubusercontent.com/asifdev62/bazar-dor/main/public/bazar-dor-preview.png"
-  width="100%"
-  alt="Bazar Dor Preview"
-/>
+ <img src="https://raw.githubusercontent.com/asifdev62/bazar-dor/main/public/bazar-dor-preview.png" width="100%" alt="Bazar Dor Preview" />
 </a>
 
 A Bengali price information platform designed to help users explore market prices and product information.
@@ -106,18 +115,12 @@ A Bengali price information platform designed to help users explore market price
 </p>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 📰 Bangla News 24
 
 <a href="https://bangla-news24-kappa.vercel.app/">
-<img
-  src="https://raw.githubusercontent.com/asifdev62/banglaNews24/main/public/bangla-news-24-preview.png"
-  width="100%"
-  alt="Bangla News 24 Preview"
-/>
+<img src="https://raw.githubusercontent.com/asifdev62/banglaNews24/main/public/bangla-news-24-preview.png" width="100%" alt="Bangla News 24 Preview" />
 </a>
 
 A Bangla news platform featuring news categories, article details, and user authentication.
@@ -127,28 +130,6 @@ A Bangla news platform featuring news categories, article details, and user auth
 <p>
 <a href="https://bangla-news24-kappa.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-059669?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://github.com/asifdev62/banglaNews24"><img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-### 💪 FitLog
-
-<a href="https://fitlog-black-two.vercel.app/">
- <img
-  src="https://raw.githubusercontent.com/asifdev62/FitLog-in-Next.js/main/public/fitlog-preview.png"
-  width="100%"
-  alt="FitLog Preview"
-/>
-</a>
-
-A workout management application for exploring exercises, creating workout plans, and saving favorite workouts.
-
-**Tech Stack:** Next.js, TypeScript, React, Tailwind CSS
-
-<p>
-<a href="https://fitlog-black-two.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-059669?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://github.com/asifdev62/FitLog-in-Next.js"><img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 </td>
