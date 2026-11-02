@@ -190,20 +190,17 @@ A Bangla news platform featuring news categories, article details, and user auth
   <a href="https://github.com/asifdev62">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="YOUR_LINKEDIN_PROFILE_URL">
+  <a href="https://www.linkedin.com/in/mdasifali230">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR_EMAIL_ADDRESS">
+  <a href="mailto:asif62n@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://myportfolio-eight-orcin-18.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
----
-
 <p align="center">
-  <b>🚀 Learn → Build → Debug → Improve → Repeat</b>
-</p>
-
-<p align="center">
-  Thanks for visiting my profile! Happy Coding! 👨‍💻
+  📍 Mirpur, Dhaka, Bangladesh
 </p>
