@@ -1,4 +1,4 @@
- <img width="100%" src="https://github.com/user-attachments/assets/130df4b0-ed4a-4765-a2d1-a0768c44c1e2" alt="Md Asif Ali GitHub Banner" />
+<img width="100%" src="https://github.com/user-attachments/assets/130df4b0-ed4a-4765-a2d1-a0768c44c1e2" alt="Md Asif Ali GitHub Banner" />
 
 <h1 align="center">Hey 👋, I'm Md Asif Ali</h1>
 
@@ -57,6 +57,35 @@
 <tr>
 <td width="50%" valign="top">
 
+### 🌍 Wanderlust
+
+<a href="https://wanderlust-gamma-pink.vercel.app/">
+  <img
+    src="https://raw.githubusercontent.com/asifdev62/Wanderlust/main/public/homepage.png"
+    width="100%"
+    alt="Wanderlust Travel Application Preview"
+  />
+</a>
+
+A full-stack travel application where users can explore destinations, discover new places, and manage travel bookings.
+
+**Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Node.js, Express.js, MongoDB, Better Auth
+
+<p>
+  <a href="https://wanderlust-gamma-pink.vercel.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-059669?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/asifdev62/Wanderlust">
+    <img src="https://img.shields.io/badge/Frontend-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/asifdev62/wanderlust-server">
+    <img src="https://img.shields.io/badge/Backend-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
 ### 🛒 Bazar Dor
 
 <a href="https://bazar-dor-psi-olive.vercel.app/">
@@ -77,6 +106,8 @@ A Bengali price information platform designed to help users explore market price
 </p>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📰 Bangla News 24
@@ -99,8 +130,6 @@ A Bangla news platform featuring news categories, article details, and user auth
 </p>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 💪 FitLog
@@ -120,28 +149,6 @@ A workout management application for exploring exercises, creating workout plans
 <p>
 <a href="https://fitlog-black-two.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-059669?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://github.com/asifdev62/FitLog-in-Next.js"><img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 Book Vibe
-
-<a href="https://bookvibe-sigma.vercel.app/">
-<img
-  src="https://raw.githubusercontent.com/890asif/Book-Vibe/main/public/book-vibe-preview.png"
-  width="100%"
-  alt="Book Vibe Preview"
-/>
-</a>
-
-A book management application to explore books, view details, and organize reading lists.
-
-**Tech Stack:** Next.js, TypeScript, React, Tailwind CSS
-
-<p>
-<a href="https://bookvibe-sigma.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-059669?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://github.com/890asif/Book-Vibe"><img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 </td>
