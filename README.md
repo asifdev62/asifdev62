@@ -1,4 +1,4 @@
-<img width="100%" src="https://github.com/user-attachments/assets/130df4b0-ed4a-4765-a2d1-a0768c44c1e2" alt="Md Asif Ali GitHub Banner" />
+ <img width="100%" src="https://github.com/user-attachments/assets/130df4b0-ed4a-4765-a2d1-a0768c44c1e2" alt="Md Asif Ali GitHub Banner" />
 
 <h1 align="center">Hey 👋, I'm Md Asif Ali</h1>
 
@@ -53,8 +53,6 @@
 
 ## 🚀 Featured Projects
 
-## 🚀 Featured Projects
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -102,7 +100,7 @@ A full-stack travel application where users can explore destinations, discover n
 ### 🛒 Bazar Dor
 
 <a href="https://bazar-dor-psi-olive.vercel.app/">
- <img src="https://raw.githubusercontent.com/asifdev62/bazar-dor/main/public/bazar-dor-preview.png" width="100%" alt="Bazar Dor Preview" />
+  <img src="https://raw.githubusercontent.com/asifdev62/bazar-dor/main/public/bazar-dor-preview.png" width="100%" alt="Bazar Dor Preview" />
 </a>
 
 A Bengali price information platform designed to help users explore market prices and product information.
@@ -120,7 +118,7 @@ A Bengali price information platform designed to help users explore market price
 ### 📰 Bangla News 24
 
 <a href="https://bangla-news24-kappa.vercel.app/">
-<img src="https://raw.githubusercontent.com/asifdev62/banglaNews24/main/public/bangla-news-24-preview.png" width="100%" alt="Bangla News 24 Preview" />
+  <img src="https://raw.githubusercontent.com/asifdev62/banglaNews24/main/public/bangla-news-24-preview.png" width="100%" alt="Bangla News 24 Preview" />
 </a>
 
 A Bangla news platform featuring news categories, article details, and user authentication.
@@ -145,8 +143,22 @@ A Bangla news platform featuring news categories, article details, and user auth
   <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs?username=asifdev62&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
+---
+
+## 🔥 Contribution Streak
+
 <p align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=asifdev62&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+## 📊 GitHub Contribution Graph
+
+<p align="center">
+  <img
+    src="https://ghchart.rshah.org/409ba5/asifdev62"
+    alt="Asif Ali's GitHub Contribution Graph"
+    width="100%"
+  />
 </p>
 
 ---
@@ -172,22 +184,17 @@ A Bangla news platform featuring news categories, article details, and user auth
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asifdev62" alt="GitHub Contribution Streak" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/asifdev62">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="YOUR_LINKEDIN_PROFILE_URL">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:YOUR_EMAIL_ADDRESS">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
